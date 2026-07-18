@@ -58,12 +58,15 @@ End-to-end communication was verified successfully.
 Example ping tests:
 
 - PC0 ➜ PC3
+  
   <img width="475" height="237" alt="Screenshot 2026-07-18 113020" src="https://github.com/user-attachments/assets/bb134267-d38c-4620-ab63-8dfa8115ad1e" />
 
 -  Main Campus ➜ Branch Campus (PC1 ➜ PC8)
+  
   <img width="476" height="218" alt="Screenshot 2026-07-18 113104" src="https://github.com/user-attachments/assets/dc22e045-45f9-4b60-8182-23582e54b057" />
 
 - Access to Email Server
+  
   <img width="478" height="348" alt="Screenshot 2026-07-18 113257" src="https://github.com/user-attachments/assets/b565b2be-a0e2-411e-b1f6-b56f7b71c412" />
 
 
